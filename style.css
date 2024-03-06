@@ -1,4 +1,8 @@
-body{
+header{
     background:#383D58 ;
+    color: white;
+
 }
-img
+.cabecalho-imagem{
+    width: 22%;
+}
