@@ -17,5 +17,10 @@ background-color:#495abe ;
 }
 .escola-imagem{width: 25%;}
 
-.escola{background-image: linear-gradient(#495abe,#93a2f7 );}
+.escola{background-image: linear-gradient(#495abe,#93a2f7 );
+color:white;
+display: flex;}
 
+.escola-div-conteudo{
+    width: 35%;
+}
