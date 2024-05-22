@@ -1,4 +1,10 @@
-e
+*{
+   margin: 0;
+   padding: 0;
+}
+body{
+    font-family: ;
+}
 .cabecalho {
 background-color:#495abe ;
     color: white;
